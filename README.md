@@ -63,6 +63,20 @@ of the game.
 The generated VPK contains code derived from **your** `civ2.exe`. It is for your
 own use only. **Do not share it.**
 
+### ⚠️ Windows Requirements & Troubleshooting
+
+When downloading and extracting the VitaSDK automatically, standard Windows tools may fail with the following error:
+`tar.exe: Error opening archive: Can't initialize filter; unable to run program "bzip2 -d"`[cite: 1]
+
+This happens because standard Windows CMD includes `tar` but lacks the `bzip2` decompression tool[cite: 1].
+
+**How to resolve:**
+1. **Install Git for Windows (Recommended):** During setup, make sure to check **"Use Git and optional Unix tools from the Command Prompt"**. This adds `bzip2` system-wide.
+2. **Manual Extraction Alternative:** 
+   - Download the VitaSDK file directly from the link shown in the patcher terminal[cite: 1].
+   - Extract it using **7-Zip** or **WinRAR**.
+   - Place the extracted `vitasdk` directory directly into the patcher root folder before running the tool.
+
 ### Smart App Control (Windows 11)
 
 Smart App Control blocks the unsigned VitaSDK tools. When it is on, the patcher

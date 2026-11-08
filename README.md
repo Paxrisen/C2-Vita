@@ -137,3 +137,9 @@ Third-party components are listed in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICE
 This repository does **not** contain any part of Civilization II: no game data,
 no executable code, and no code generated from it. Please do not open issues or
 pull requests that contain such material.
+
+## 🤖 Acknowledgments & Credits
+
+* **Porting & Code Generation:** This port was fully developed and generated with the assistance of **Claude Code** (Anthropic's AI coding assistant).
+* **Target Platform:** Sony PlayStation Vita / PS TV.
+* **Special Thanks:** The PS Vita homebrew community for their open-source toolchains and documentation.

@@ -36,6 +36,7 @@ of the game.
 
 **Game**
 - Your own PC installation of **Civilization II: Multiplayer Gold Edition** (tested: 5.4.0f German; the English edition should work)
+- Civ2UIALauncher (Civ2UIA): You must install and run the Civ2UIALauncher on your PC installation of Civilization II before building/transferring the files. This patches the game's executable and UI to enable proper interface and control support on the PS Vita.
 - Optional: the original game CD to rip the music tracks
 
 **Native version (patcher, optional)**

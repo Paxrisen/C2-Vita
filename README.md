@@ -35,7 +35,7 @@ of the game.
 - Recommended: vita-turbo-storage, plus about 400 MB free on `ux0:` for the game files
 
 **Game**
-- Your own PC installation of **Civilization II: Multiplayer Gold Edition** (tested: 5.4.0f German; the English edition should work)
+- Your own PC installation of **Civilization II: Multiplayer Gold Edition** (tested: 5.4.0f German; To play it in English, you simply need to replace all the .txt files.)
 - Civ2UIALauncher version 1.21.6.2800 (Civ2UIA): You must install and run the Civ2UIALauncher on your PC installation of Civilization II before building/transferring the files. This patches the game's executable and UI to enable proper interface and control support on the PS Vita. (Game version Multiplayer Gold Edition 5.4.0f (Patch 3) is supported only.)
 - Optional: the original game CD to rip the music tracks
 

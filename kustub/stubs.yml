@@ -1,0 +1,23 @@
+version: 2
+firmware: 3.60
+modules:
+  kubridge:
+    nid: 0x00000000
+    libraries:
+      kubridge:
+        kernel: false
+        nid: 0xD6B9EA7E
+        functions:
+          kuKernelAllocMemBlock: 0x2EF7C290
+          kuKernelFlushCaches: 0x38B70744
+          kuKernelCpuUnrestrictedMemcpy: 0x91D9CABC
+          kuPowerGetSysClockFrequency: 0x13371337
+          kuPowerSetSysClockFrequency: 0x13371338
+          kuKernelMemProtect: 0x566D2AF1
+          kuKernelMemReserve: 0xCED3608C
+          kuKernelMemCommit: 0x9C0CD758
+          kuKernelMemDecommit: 0x9BDF5881
+          kuKernelRegisterExceptionHandler: 0xF9025D19
+          kuKernelReleaseExceptionHandler: 0xDF9F3BED
+          kuKernelRegisterAbortHandler: 0x799F5648
+          kuKernelReleaseAbortHandler: 0xB188292D

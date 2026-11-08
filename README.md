@@ -129,6 +129,11 @@ See [docs/BUILDING.md](docs/BUILDING.md).
 C2-Vita's own code is released under the [MIT License](LICENSE).
 Third-party components are listed in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 
+## Community & Support
+Want to share feedback, report bugs, suggest new features, or just chat with other users? Join our community!
+
+👉 **[Join the GameNexum Discord Server](https://discord.gg/xkSFYMCgHH)**
+
 This repository does **not** contain any part of Civilization II: no game data,
 no executable code, and no code generated from it. Please do not open issues or
 pull requests that contain such material.

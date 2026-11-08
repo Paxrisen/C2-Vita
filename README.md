@@ -124,15 +124,15 @@ See [docs/BUILDING.md](docs/BUILDING.md).
 - C2-Vita re-implements the needed parts of the Win32 API (window manager, GDI, WinMM audio, CD audio via MCI, file dialogs, and more) on top of the Vita SDK.
 - **`tools/recomp.py`** is a static recompiler. It turns the game's x86 functions into C code for the Vita, using its own built-in disassembler (`tools/x86dis.py`), and keeps x87 FPU state shared with the emulator. It only ever runs on the user's own copy of the game, via the patcher.
 
-## License
-
-C2-Vita's own code is released under the [MIT License](LICENSE).
-Third-party components are listed in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
-
 ## Community & Support
 Want to share feedback, report bugs, suggest new features, or just chat with other users? Join our community!
 
 👉 **[Join the GameNexum Discord Server](https://discord.gg/xkSFYMCgHH)**
+
+## License
+
+C2-Vita's own code is released under the [MIT License](LICENSE).
+Third-party components are listed in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 
 This repository does **not** contain any part of Civilization II: no game data,
 no executable code, and no code generated from it. Please do not open issues or

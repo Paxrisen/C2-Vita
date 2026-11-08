@@ -15,7 +15,7 @@ of the game.
 
 ## Features
 
-- Runs the original game data, including the German and English editions (tested: MGE 5.4.0f German with installed Civ2UIALauncher (Civ2UIA))
+- Runs the original game data, including the German and English editions (tested: MGE 5.4.0f German with installed Civ2UIALauncher version 1.21.6.2800 (Civ2UIA))
 - Two ways to run the game code:
   - **Public VPK**: the game code runs in a built-in x86 emulator (winx86 / Box86 dynarec)
   - **Native VPK (via patcher)**: the patcher translates *your own* `civ2.exe` into native ARM code on your PC, so the game code runs natively on the Vita
@@ -36,7 +36,7 @@ of the game.
 
 **Game**
 - Your own PC installation of **Civilization II: Multiplayer Gold Edition** (tested: 5.4.0f German; the English edition should work)
-- Civ2UIALauncher (Civ2UIA): You must install and run the Civ2UIALauncher on your PC installation of Civilization II before building/transferring the files. This patches the game's executable and UI to enable proper interface and control support on the PS Vita. (Game version Multiplayer Gold Edition 5.4.0f (Patch 3) is supported only.)
+- Civ2UIALauncher version 1.21.6.2800 (Civ2UIA): You must install and run the Civ2UIALauncher on your PC installation of Civilization II before building/transferring the files. This patches the game's executable and UI to enable proper interface and control support on the PS Vita. (Game version Multiplayer Gold Edition 5.4.0f (Patch 3) is supported only.)
 - Optional: the original game CD to rip the music tracks
 
 **Native version (patcher, optional)**

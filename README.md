@@ -15,7 +15,7 @@ of the game.
 
 ## Features
 
-- Runs the original game data, including the German and English editions (tested: MGE 5.4.0f German with installed Civ2UIALauncher version 1.21.6.2800 (Civ2UIA))
+- Runs the original game data, including the German edition (tested: MGE 5.4.0f German with installed Civ2UIALauncher version 1.21.6.2800 (Civ2UIA))
 - Two ways to run the game code:
   - **Public VPK**: the game code runs in a built-in x86 emulator (winx86 / Box86 dynarec)
   - **Native VPK (via patcher)**: the patcher translates *your own* `civ2.exe` into native ARM code on your PC, so the game code runs natively on the Vita
